@@ -23,6 +23,4 @@
 
 <h2>Github Commits</h2>
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/marcobrunodev/marcobrunodev/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
+![snake animation](https://github.com/marcobrunodev/marcobrunodev/blob/output/github-contribution-grid-snake2.svg)
